@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  height: 35px;
+  position: relative;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: right;
+  align-items: flex-end;
+  flex: 1;
+  margin: 5;
+ 
+}
+
+li {
+  border-color: black;
+  border-width: 1px 0 0 1px;
+  border-top-left-radius: 5px;
+  padding: 20px 40px 2px 50px;
+  width: auto;
+  margin-bottom: 0;
+}
+
+img { 
+  width: 250px;
+  height: 250px;
+}
+
